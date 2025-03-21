@@ -92,4 +92,4 @@ function displayError(message) {
 fetchBusArrivals();
 
 // Fetch data every 30 seconds to keep it updated
-setInterval(fetchBusArrivals, 30000);
+setInter6val(fetchBusArrivals, 71000);
